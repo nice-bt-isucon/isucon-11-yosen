@@ -1,0 +1,12 @@
+.cache
+local
+.cargo
+.rustup
+.ansible
+.bundle
+.local
+.config
+.perl-cpm
+.cpanm
+.npm
+
